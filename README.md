@@ -1,4 +1,4 @@
-# Primeros pasos para ejecturar React
+# Primeros pasos para ejecutar React
 
 Lo primero que se debe realizar para poder ejecutar el proyecto en area local es clonar el repositorio para ellos se utiliza:
 
